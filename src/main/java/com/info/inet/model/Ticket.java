@@ -12,7 +12,7 @@ import javax.persistence.Table;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 @Entity
-@Table(name = "ticket_db")
+@Table(name = "ticket_db1")
 public class Ticket {
 
 	@Id
