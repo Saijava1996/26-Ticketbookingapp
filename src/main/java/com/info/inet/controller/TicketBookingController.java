@@ -14,7 +14,7 @@ import com.info.inet.model.Ticket;
 import com.info.inet.service.TicketBookingService;
 
 @RestController
-@RequestMapping(value="/api")
+@RequestMapping(value="/ticket")
 public class TicketBookingController {
 
 	@Autowired
